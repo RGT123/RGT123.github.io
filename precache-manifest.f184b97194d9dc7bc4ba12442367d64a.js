@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73421cd0a5d91f66072303e471c10363",
+    "revision": "c4b5315de52ae18d45928c8fc2a49b56",
     "url": "/index.html"
   },
   {
-    "revision": "24ceecb9c7f630a3913a",
+    "revision": "df7d6f20297b7ed548b4",
     "url": "/static/css/2.f4218568.chunk.css"
   },
   {
-    "revision": "968a56d32f27021883f6",
-    "url": "/static/css/main.18d73c1c.chunk.css"
+    "revision": "c39833dbab3777eada85",
+    "url": "/static/css/main.b45134f3.chunk.css"
   },
   {
-    "revision": "24ceecb9c7f630a3913a",
-    "url": "/static/js/2.f98ebec8.chunk.js"
+    "revision": "df7d6f20297b7ed548b4",
+    "url": "/static/js/2.98d010a3.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/static/js/2.f98ebec8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.98d010a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "968a56d32f27021883f6",
-    "url": "/static/js/main.7a554aab.chunk.js"
+    "revision": "c39833dbab3777eada85",
+    "url": "/static/js/main.c2b8f874.chunk.js"
   },
   {
     "revision": "8cab146f387c6fa6faf4",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "3679a2888b60b459a2f12d957de0e3dd",
-    "url": "/static/media/bg1.3679a288.png"
+    "revision": "22efa13d44bd36953054cbdc31be6481",
+    "url": "/static/media/bg1.22efa13d.png"
   },
   {
-    "revision": "85982646ca6b5297c8d940d698a1b1ad",
-    "url": "/static/media/bg_frame.85982646.png"
+    "revision": "4e01dff2497767ec31ea2f07df521cbf",
+    "url": "/static/media/bg_frame.4e01dff2.png"
   },
   {
     "revision": "03fbed2e81c2187a84bbb75b1bbeecfc",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d22b34cb12a734e66520b8ec6417013d",
     "url": "/static/media/gm_small.d22b34cb.png"
+  },
+  {
+    "revision": "47aa56d542bf2e025bb196540966deb3",
+    "url": "/static/media/logo.47aa56d5.png"
   },
   {
     "revision": "17e1f05bbc4e4d308b00431318781520",
