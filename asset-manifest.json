@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.b45134f3.chunk.css",
-    "main.js": "/static/js/main.871af055.chunk.js",
-    "main.js.map": "/static/js/main.871af055.chunk.js.map",
+    "main.css": "/static/css/main.89b8d8af.chunk.css",
+    "main.js": "/static/js/main.69ac404f.chunk.js",
+    "main.js.map": "/static/js/main.69ac404f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.03d328f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.03d328f6.js.map",
     "static/css/2.f4218568.chunk.css": "/static/css/2.f4218568.chunk.css",
-    "static/js/2.98d010a3.chunk.js": "/static/js/2.98d010a3.chunk.js",
-    "static/js/2.98d010a3.chunk.js.map": "/static/js/2.98d010a3.chunk.js.map",
+    "static/js/2.091515b5.chunk.js": "/static/js/2.091515b5.chunk.js",
+    "static/js/2.091515b5.chunk.js.map": "/static/js/2.091515b5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3fb8dc6138cc5da13e4c8429a4806287.js": "/precache-manifest.3fb8dc6138cc5da13e4c8429a4806287.js",
+    "precache-manifest.40b17965fd46a964c476d71e481fda5b.js": "/precache-manifest.40b17965fd46a964c476d71e481fda5b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f4218568.chunk.css.map": "/static/css/2.f4218568.chunk.css.map",
-    "static/css/main.b45134f3.chunk.css.map": "/static/css/main.b45134f3.chunk.css.map",
-    "static/js/2.98d010a3.chunk.js.LICENSE.txt": "/static/js/2.98d010a3.chunk.js.LICENSE.txt",
+    "static/css/main.89b8d8af.chunk.css.map": "/static/css/main.89b8d8af.chunk.css.map",
+    "static/js/2.091515b5.chunk.js.LICENSE.txt": "/static/js/2.091515b5.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
     "static/media/bg1Art.png": "/static/media/bg1Art.afbfedb6.png",
-    "static/media/bg_frame.png": "/static/media/bg_frame.a3080276.png",
+    "static/media/bg_frame.png": "/static/media/bg_frame.648fbe58.png",
     "static/media/code_logo.png": "/static/media/code_logo.03fbed2e.png",
     "static/media/face_round.png": "/static/media/face_round.5ce56666.png",
     "static/media/gm_small.png": "/static/media/gm_small.d22b34cb.png",
-    "static/media/logo.png": "/static/media/logo.0ae51b89.png",
+    "static/media/logo.png": "/static/media/logo.76595a36.png",
     "static/media/ruben_logo.png": "/static/media/ruben_logo.17e1f05b.png",
     "static/media/rutgers_logo.jpg": "/static/media/rutgers_logo.7ae3b39f.jpg",
     "static/media/social_logo.png": "/static/media/social_logo.d7d07905.png"
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.03d328f6.js",
     "static/css/2.f4218568.chunk.css",
-    "static/js/2.98d010a3.chunk.js",
-    "static/css/main.b45134f3.chunk.css",
-    "static/js/main.871af055.chunk.js"
+    "static/js/2.091515b5.chunk.js",
+    "static/css/main.89b8d8af.chunk.css",
+    "static/js/main.69ac404f.chunk.js"
   ]
 }
